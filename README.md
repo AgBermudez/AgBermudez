@@ -30,8 +30,6 @@ I am a **Computer Engineering student** at the University of Buenos Aires (**FIU
 
 ---
 
-### 🛠️ Tech Skills
-
 ### 🛠️ Tech Stack & Skills
 
 **💻 Programming & Frameworks**
@@ -62,6 +60,10 @@ I am a **Computer Engineering student** at the University of Buenos Aires (**FIU
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+---
+### STATS
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgBermudez&show_icons=true&bg_color=00000000)
 ---
 
 ### 📫 How to reach me
