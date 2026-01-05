@@ -28,12 +28,18 @@ I am a **Computer Engineering student** at the University of Buenos Aires (**FIU
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgBermudez&show_icons=true&theme=tokyonight&count_private=true" alt="Agustin's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgBermudez&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AgBermudez&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&icon_color=007acc" alt="Agustin's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgBermudez&theme=transparent&hide_border=true&stroke=007acc&ring=007acc&fire=007acc" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgBermudez&layout=compact&theme=transparent&hide_border=true&title_color=007acc" alt="Top Langs" />
 </p>
 
 ---
