@@ -22,20 +22,23 @@ I am a **Computer Engineering student** at the University of Buenos Aires (**FIU
 
 ### 📂 Featured Projects
 
-- **[CookList-Flask-App](tu-link-aca):** A recipe and grocery list manager built with Python, Flask, and SQLite.
-- **[Gnome-Robots-JavaFX](tu-link-aca):** A JavaFX implementation of the classic GNOME game focusing on MVC architecture and UML design.
-- **[Randomness-Analysis](tu-link-aca):** (In Progress) Research on cryptographic entropy and Intel RDRAND/RDSEED instructions.
+- **[CookList-Flask-App](https://github.com/AgBermudez/CookList-Flask-App):** A recipe and grocery list manager built with Python, Flask, and SQLite.
+- **[Gnome-Robots-JavaFX](https://github.com/AgBermudez/Gnome-Robots-JavaFX-Clon):** A JavaFX implementation of the classic GNOME game focusing on MVC architecture and UML design.
+- **[Randomness-Analysis](https://drive.google.com/file/d/1CUPBm_S2M5jvbMsj-lNhOnL3FgMWUEoa/view?usp=sharing):** Research on cryptographic entropy and Intel RDRAND/RDSEED instructions.
 
 ---
 
 ### 📊 GitHub Stats
 
-![Agustín's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgBermudez&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgBermudez&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AgBermudez&show_icons=true&theme=tokyonight&count_private=true" alt="Agustin's GitHub stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgBermudez&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
 ### 📫 How to reach me
 
-- **LinkedIn:** [linkedin.com/in/agustin-bermudez](https://linkedin.com/in/agustin-bermudez)
-- **Email:** [tu-email@gmail.com]
+- **LinkedIn:** [linkedin.com/in/agustin-bermudez](https://www.linkedin.com/in/agustin-bermudez-6284b823b/)
+- **Email:** [bermudezagustin1201@gmail.com]
