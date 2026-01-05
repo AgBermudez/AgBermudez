@@ -26,20 +26,20 @@ I am a **Computer Engineering student** at the University of Buenos Aires (**FIU
 - **[Gnome-Robots-JavaFX](https://github.com/AgBermudez/Gnome-Robots-JavaFX-Clon):** A JavaFX implementation of the classic GNOME game focusing on MVC architecture and UML design.
 - **[Randomness-Analysis](https://drive.google.com/file/d/1CUPBm_S2M5jvbMsj-lNhOnL3FgMWUEoa/view?usp=sharing):** Research on cryptographic entropy and Intel RDRAND/RDSEED instructions.
 
+
+
 ---
 
-### 📊 GitHub Activity
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgBermudez&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&icon_color=007acc" alt="Agustin's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgBermudez&theme=transparent&hide_border=true&stroke=007acc&ring=007acc&fire=007acc" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgBermudez&layout=compact&theme=transparent&hide_border=true&title_color=007acc" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AgBermudez&show_icons=true&theme=tokyonight" alt="Agustin's GitHub stats" />
 </p>
 
 ---
