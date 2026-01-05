@@ -47,7 +47,7 @@ I am a **Computer Engineering student** at the University of Buenos Aires (**FIU
 
 **🧠 Algorithm Design & Analysis**
 
-![Design Patterns](https://img.shields.io/badge/D%26C_|_Greedy_|_Backtracking_|_Lineal%32Programming-blue?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/D%26C_|_Greedy_|_Backtracking_|_Lineal_Programming-blue?style=for-the-badge)
 ![Dynamic Programming](https://img.shields.io/badge/Dynamic_Programming-purple?style=for-the-badge)
 ![Complexity](https://img.shields.io/badge/NP--Complete_Analysis-red?style=for-the-badge)
 
