@@ -62,7 +62,7 @@ I am a **Computer Engineering student** at the University of Buenos Aires (**FIU
 ### 📊 GitHub Metrics
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="Metrics" width="100%">
+  <img src="./github-metrics.svg" alt="Metrics" width="70%">
 </div>
 
 ---
