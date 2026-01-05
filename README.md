@@ -47,7 +47,7 @@ I am a **Computer Engineering student** at the University of Buenos Aires (**FIU
 
 **🧠 Algorithm Design & Analysis**
 
-![Design Patterns](https://img.shields.io/badge/D%26C_|_Greedy_|_Backtracking_|_Lineal%49Programming-blue?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/D%26C_|_Greedy_|_Backtracking_|_Lineal%32Programming-blue?style=for-the-badge)
 ![Dynamic Programming](https://img.shields.io/badge/Dynamic_Programming-purple?style=for-the-badge)
 ![Complexity](https://img.shields.io/badge/NP--Complete_Analysis-red?style=for-the-badge)
 
@@ -59,21 +59,10 @@ I am a **Computer Engineering student** at the University of Buenos Aires (**FIU
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=AgBermudez&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgBermudez&layout=compact&theme=radical&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgBermudez&theme=radical&hide_border=true" />
-  </a>
+  <img src="./github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 ---
